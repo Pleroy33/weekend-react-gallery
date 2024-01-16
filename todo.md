@@ -1,6 +1,6 @@
 [x]Create Database in postgres/postico
-[]Create endpoints in router.js file. At least CRUD.  Maybe more depending on stretch
-[]Create endpoints in client.  
+[x]Create endpoints in router.js file. At least CRUD.  Maybe more depending on stretch
+[x]Create endpoints in client.  
 []Create components for client side.
   
 
