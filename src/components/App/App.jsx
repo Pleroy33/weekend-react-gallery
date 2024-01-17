@@ -15,7 +15,7 @@ function App() {
       <Header />
 
 
-      <GalleryList  />
+      <GalleryList className='galleryList' data-testid="galleryList"/>
 
     </div>
   );
